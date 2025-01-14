@@ -22,7 +22,7 @@ Here are some screenshots of the game in action:
 ![Screenshot 3](assets/Four2.png)
 *Difficulty Modes*
 
-![Screenshot 4](assets/Four3.png)
+![Screenshot 4](assets/four3.png)
 *Gameplay*
 
 ## How to Run the Game
