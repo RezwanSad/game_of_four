@@ -10,6 +10,21 @@ Game of Four is a computerized version of Stephen Tavener's Game of Four, develo
 - **Color Modes for Color Vision Deficiency**: Three additional color modes are available to accommodate players with color vision deficiencies.
 - **Save & Load Games**: Save your progress and load previous games to continue where you left off.
 
+## Screenshots
+Here are some screenshots of the game in action:
+
+![Screenshot 1](assets/Four_HomeScreen.png)
+*Home Screen*
+
+![Screenshot 2](assets/four_color.png)
+*Color Modes*
+
+![Screenshot 3](assets/Four2.png)
+*Difficulty Modes*
+
+![Screenshot 4](assets/Four3.png)
+*Gameplay*
+
 ## How to Run the Game
 
 1. Clone the repository to your local machine.
